@@ -46,3 +46,12 @@ Here are the VSCode extensions I use the most:
 [Emoji Snippet](https://marketplace.visualstudio.com/items?itemName=doooreyn.emoji-snippet-vscode)
 [Individual Emoji Commit](https://marketplace.visualstudio.com/items?itemName=fz6m.individual-emoji-commit)
  
+## Apps ##
+Project Management: [Trello](https://trello.com/)  
+Code Management: [Jira](https://www.atlassian.com/software/jira)  
+Window Management on Mac: [Magnet](https://apps.apple.com/ca/app/magnet/id441258766?mt=12)
+Communications: [Telegram](https://telegram.org/)
+Communications: [Slack](https://slack.com/)
+
+## Other ##
+I'm new to developing with Arduino, but I'm excited to get moving with more C++ knowledge.
