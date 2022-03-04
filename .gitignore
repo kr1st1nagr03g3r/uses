@@ -1,0 +1,16 @@
+# Ignore
+.DS_Store
+images
+.vscode/extensions/alefragnani.project-manager-12.5.0/images
+.vscode/extensions/alefragnani.project-manager-12.5.0/vscode-whats-new
+package.json
+!package.nls.cs.json
+!package.nls.json
+!package.nls.pt-br.json
+!package.
+tsconfig.json
+node_modules
+built
+
+# Allow
+!.vscode
