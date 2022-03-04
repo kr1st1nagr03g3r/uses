@@ -14,7 +14,7 @@
 
 🔈 I don't really use it as a speaker for music so much, but I love my [Google Nest Mini](https://store.google.com/ca/product/google_nest_mini?hl=en-GB). I mostly use it to control my lights and lazily add calendar items to my Google Calendar.  
 
-🔦 What hardware list would be complete without the cool coloured lights I have mounted on the back of my monitor [Govee Flow Plus Smart LED Light Bars](https://www.amazon.ca/gp/product/B096WZXKZP/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)  
+🔦 What hardware list would be complete without the cool coloured lights I have mounted on the back of my monitor? [Govee Flow Plus Smart LED Light Bars](https://www.amazon.ca/gp/product/B096WZXKZP/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)  
 
 🪑 I use a shitty Ikea desk which needs to be replaced, badly. And I also use an architecht's chair which can be used as a high chair or a low chair.  
 
